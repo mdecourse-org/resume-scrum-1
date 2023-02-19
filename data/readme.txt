@@ -1,0 +1,3 @@
+MikTeX
+
+pip install openai
